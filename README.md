@@ -1,10 +1,16 @@
-# Dojo v2
+# Dojo v2 Equipe MEW
 
 
 ## Intro
 
 - 1 mentoria por semana
-- 1 projeto a cada 2 semana
+    - Mentoria - Semana 01
+        - SmartContract type ERC-20
+
+
+- 1 projeto a cada 2 
+    - Projeto - Semana 01
+        - Criar um Token padrão ERC20 com uma qdade fixa de 20 Tokens(Essa qdade deve ser constante)
 
 
 ## Ganha-Ganha
